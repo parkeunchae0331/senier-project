@@ -1,0 +1,23 @@
+
+<resources>
+
+<!-- Base application theme. -->
+<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <!-- Customize your theme here. -->
+    <item name="colorPrimary">@color/P1</item>
+    <item name="colorPrimaryDark">@color/P1</item>
+    <item name="colorAccent">@color/P1</item>
+</style>
+
+<style name="googleloginT" parents="FirebaseUI">
+    <item name="android:colorPrimary">@color/P1</item>
+    <item name="android:colorPrimaryDark">@color/P2</item>
+    <item name="android:colorAccent">@color/P3</item>
+    <item name="android:colorControlActivated">@color/P4</item>
+    <item name="android:colorControlHighlight">@color/P5</item>
+    <item name="android:colorControlNormal">@color/P6</item>
+    <item name="android:windowBackground">@color/P7</item>
+
+</style>
+
+</resources>
